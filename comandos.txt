@@ -1,0 +1,4 @@
+npx -- executa funcoes como compilar
+npx tsc -- executa comandos typescript
+npx tsc init -- cria arquivo de configuracoes typescript
+npx tsc pasta/nome_arquivo -- converte o arquivo ts selecionado para javascript
